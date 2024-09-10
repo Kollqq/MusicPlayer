@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>close_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>volume_off_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>radio_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>more_horiz_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>volume_up_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>shuffle_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>repeat_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>music_note_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>queue_music_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>stop_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>skip_next_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>search_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>menu_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>play_arrow_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>skip_previous_FILL0_wght400_GRAD0_opsz24.png</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>400x400.jfif</file>
+  </qresource>
+</RCC>
